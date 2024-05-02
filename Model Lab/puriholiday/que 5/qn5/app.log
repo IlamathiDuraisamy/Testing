@@ -1,0 +1,38 @@
+2024-05-01 23:21:36 WARN  qn5:26 - Waits for 3 sec
+  2024-05-01 23:21:36 INFO  qn5:30 - Pop-up closed successfully
+  2024-05-01 23:21:36 INFO  qn5:39 - Check-in date selected successfully
+  2024-05-01 23:21:36 INFO  qn5:43 - Check-out date selected successfully
+  2024-05-01 23:21:50 INFO  qn5:47 - Clicked on 'Book Now' button
+  2024-05-01 23:21:50 INFO  qn5:51 - 'Property Information' label is present
+  2024-05-01 23:22:06 WARN  qn5:26 - Waits for 3 sec
+  2024-05-01 23:22:06 INFO  qn5:30 - Pop-up closed successfully
+  2024-05-01 23:22:24 WARN  qn5:26 - Waits for 3 sec
+  2024-05-01 23:22:24 INFO  qn5:30 - Pop-up closed successfully
+  2024-05-01 23:23:23 WARN  qn5:26 - Waits for 3 sec
+  2024-05-01 23:24:10 WARN  qn5:26 - Waits for 3 sec
+  2024-05-01 23:24:13 INFO  qn5:30 - Pop-up closed successfully
+  2024-05-01 23:24:14 INFO  qn5:39 - Check-in date selected successfully
+  2024-05-01 23:24:14 INFO  qn5:43 - Check-out date selected successfully
+  2024-05-01 23:24:26 INFO  qn5:47 - Clicked on 'Book Now' button
+  2024-05-01 23:24:26 INFO  qn5:51 - 'Property Information' label is present
+  2024-05-01 23:24:40 WARN  qn5:26 - Waits for 3 sec
+  2024-05-01 23:24:40 INFO  qn5:30 - Pop-up closed successfully
+  2024-05-01 23:24:48 INFO  qn5:65 - Chose 'Royal Suite'
+  2024-05-01 23:24:53 INFO  qn5:73 - 'Price' label is present in Amenities section
+  2024-05-01 23:26:10 WARN  qn5:26 - Waits for 3 sec
+  2024-05-01 23:27:10 WARN  qn5:26 - Waits for 3 sec
+  2024-05-01 23:27:10 INFO  qn5:30 - Pop-up closed successfully
+  2024-05-01 23:27:10 INFO  qn5:39 - Check-in date selected successfully
+  2024-05-01 23:27:10 INFO  qn5:43 - Check-out date selected successfully
+  2024-05-01 23:27:20 INFO  qn5:47 - Clicked on 'Book Now' button
+  2024-05-01 23:27:20 INFO  qn5:51 - 'Property Information' label is present
+  2024-05-01 23:27:30 WARN  qn5:26 - Waits for 3 sec
+  2024-05-01 23:27:31 INFO  qn5:30 - Pop-up closed successfully
+  2024-05-01 23:27:37 INFO  qn5:65 - Chose 'Royal Suite'
+  2024-05-01 23:27:42 INFO  qn5:73 - 'Price' label is present in Amenities section
+  2024-05-01 23:27:55 WARN  qn5:26 - Waits for 3 sec
+  2024-05-01 23:27:55 INFO  qn5:30 - Pop-up closed successfully
+  2024-05-01 23:28:00 INFO  qn5:88 - Selected 'Chilika Lake'
+  2024-05-01 23:28:00 INFO  qn5:91 - Scrolled down to TripAdvisor review section
+  2024-05-01 23:28:01 INFO  qn5:98 - Clicked on 'Continue'
+  
