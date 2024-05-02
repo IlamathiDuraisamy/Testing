@@ -1,0 +1,30 @@
+-------------------------------------------------------------------------------
+Test set: com.example.AppTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 50.959 s <<< FAILURE! - in com.example.AppTest
+test2(com.example.AppTest)  Time elapsed: 10.972 s  <<< FAILURE!
+org.openqa.selenium.ElementNotInteractableException: 
+element not interactable
+  (Session info: chrome=124.0.6367.91)
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d401f3723a0f656290109065db0fa08d, clickElement {id=f.C8A38617B7EE0DE58973280027468D4F.d.64379B613708ED5FF8E935292D62F777.e.98}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 124.0.6367.91, chrome: {chromedriverVersion: 124.0.6367.91 (51df0e5e17a8..., userDataDir: C:\Users\ilama\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54652}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54652/devtoo..., se:cdpVersion: 124.0.6367.91, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (d401f3723a0f656290109065db0fa08d)] -> xpath: //*[@id="myModal_home"]/div/div/div[1]/button]
+Session ID: d401f3723a0f656290109065db0fa08d
+	at com.example.AppTest.test2(AppTest.java:52)
+
+test3(com.example.AppTest)  Time elapsed: 13.916 s  <<< FAILURE!
+org.openqa.selenium.ElementNotInteractableException: 
+element not interactable
+  (Session info: chrome=124.0.6367.91)
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [42a063be833668a04d4114eccceed993, clickElement {id=f.6D19F88B64E67AF939DF17DEA3DA6981.d.B50219B623A68D10E133333FC7C3D6B4.e.73}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 124.0.6367.91, chrome: {chromedriverVersion: 124.0.6367.91 (51df0e5e17a8..., userDataDir: C:\Users\ilama\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54692}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54692/devtoo..., se:cdpVersion: 124.0.6367.91, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (42a063be833668a04d4114eccceed993)] -> xpath: //*[@id="myModal_home"]/div/div/div[1]/button]
+Session ID: 42a063be833668a04d4114eccceed993
+	at com.example.AppTest.test3(AppTest.java:77)
+
